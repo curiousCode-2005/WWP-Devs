@@ -10,13 +10,29 @@ html, body {
   color: white;
 }
 
+#textOnNav{
+  margin-left: 50px;
+  margin-right: 50px; 
+  white-space:nowrap;
+}
+#spaceDIV {
+  visibility: hidden;
+}
+
 #dropdown:hover {
   color : black;
 }
 
+#menutabs {
+  padding-right: 30px;
+  padding-left: 30px;
+  
+}
 html, body {
   background : linear-gradient(#ff0066, #ff9933);
 }
+
+
 
 p {
   font-family: verdana;
@@ -31,9 +47,8 @@ img {
 }
 
 .navbar-nav > li{
-  margin-left:30px;
+  margin-left:300px;
   margin-right:30px;
-  text-align: right;
 }
 
 .nav-link{
