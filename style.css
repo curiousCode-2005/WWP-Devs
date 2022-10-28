@@ -6,10 +6,16 @@ html, body {
   color: #ff0066;
 }
 
-  background-color: #ff6699;
-#ff6699#9933ffh1 {
-  color: black;
-  text-align: center;
+#dropdown {
+  color: white;
+}
+
+#dropdown:hover {
+  color : black;
+}
+
+html, body {
+  background : linear-gradient(#ff0066, #ff9933);
 }
 
 p {
