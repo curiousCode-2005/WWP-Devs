@@ -10,6 +10,19 @@ html, body {
   color: white;
 }
 
+#head {
+  color: white;
+}
+
+#para {
+  color: white;
+}
+
+
+.navbar-custom {
+    background-color: black;
+    
+}
 #textOnNav{
   margin-left: 50px;
   margin-right: 50px; 
@@ -29,9 +42,9 @@ html, body {
   
 }
 html, body {
-  background : linear-gradient(#ff0066, #ff9933);
+   background : linear-gradient(#f90192, #e801f9);
+ 
 }
-
 
 
 p {
