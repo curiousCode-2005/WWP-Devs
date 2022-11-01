@@ -2,7 +2,7 @@ html, body {
   height: 100%;
   width: 100%;
   background-color: white;
-  background-image:
+  background-image: none;
   color: #ff0066;
 }
 
@@ -30,7 +30,7 @@ html, body {
 #textOnNav{
   margin-left: 50px;
   margin-right: 50px; 
-  white-space:nowrap;33
+  white-space:nowrap;
   font-family: serif;
     font-family: "Times New Roman", Times, serif;
 }
