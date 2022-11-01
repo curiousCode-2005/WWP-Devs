@@ -30,8 +30,11 @@ html, body {
 #textOnNav{
   margin-left: 50px;
   margin-right: 50px; 
-  white-space:nowrap;
+  white-space:nowrap;33
+  font-family: serif;
+    font-family: "Times New Roman", Times, serif;
 }
+
 #spaceDIV {
   visibility: hidden;
 }
@@ -46,11 +49,25 @@ html, body {
   
 }
 html, body {
-   background : linear-gradient(#f90192, #e801f9);
+  background : linear-gradient(-45deg, #96bbe8 , #ecafcb );
+/*    background : linear-gradient(#f90192, #e801f9); */
  
 }
 
+#slogan{
+  margin: 75px;
+  color: white;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
 
+#slogansmall{
+    margin: 75px;
+  color: white;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 10;
+}
 p {
   font-family: verdana;
   font-size: 20px
