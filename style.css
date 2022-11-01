@@ -3,19 +3,23 @@ html, body {
   width: 100%;
   background-color: white;
   background-image: none;
-  color: #ff0066;
+  color: black;
+/*   color: #ff0066; */
 }
-
 #dropdown {
   color: white;
 }
 
 #head {
+  margin: 50px;
   color: white;
+  text-align: center;
 }
 
 #para {
   color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
   margin-left: 30px;
 }
 
@@ -31,7 +35,6 @@ html, body {
   margin-left: 50px;
   margin-right: 50px; 
   white-space:nowrap;
-  font-family: serif;
     font-family: "Times New Roman", Times, serif;
 }
 
@@ -48,6 +51,11 @@ html, body {
   padding-left: 30px;
   
 }
+
+#menu{
+  padding-right: -30px;
+  margin-right: -30px;
+}
 html, body {
   background : linear-gradient(-45deg, #96bbe8 , #ecafcb );
 /*    background : linear-gradient(#f90192, #e801f9); */
@@ -55,18 +63,20 @@ html, body {
 }
 
 #slogan{
-  margin: 75px;
+  margin-left: 75px;
+  margin-right:75px;
   color: white;
   text-align: center;
   font-family: "Times New Roman", Times, serif;
+  font-size: 100px;
 }
 
 #slogansmall{
-    margin: 75px;
+
   color: white;
   text-align: center;
   font-family: "Times New Roman", Times, serif;
-  font-size: 10;
+  font-size: 35;
 }
 p {
   font-family: verdana;
@@ -88,4 +98,12 @@ img {
 
 .nav-link{
   margin-left:100px;
+}
+
+#subtext{
+  margin-top: -30;
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 20px;
+  color: white;
 }
