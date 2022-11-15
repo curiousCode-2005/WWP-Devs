@@ -57,9 +57,8 @@ html, body {
   margin-right: -30px;
 }
 html, body {
-  background : linear-gradient(-45deg, #96bbe8 , #ecafcb );
-/*    background : linear-gradient(#f90192, #e801f9); */
- 
+  background : linear-gradient(-45deg, #96bbe8 , #ecafcb ); 
+
 }
 
 #slogan{
@@ -92,8 +91,8 @@ img {
 }
 
 .navbar-nav > li{
-  margin-left:300px;
-  margin-right:30px;
+/*   margin-left:300px;
+  margin-right:30px; */
 }
 
 .nav-link{
