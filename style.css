@@ -86,9 +86,21 @@ p {
   height: 100px;
 }
 
-img {
-  border-radius: 50%;
+
+
+.centerthis{
+  display: flex;
+  justify-content: center;
+  background: black;
+  
 }
+
+img {
+  margin-top: 500px;
+
+}
+
+
 
 .navbar-nav > li{
 /*   margin-left:300px;
