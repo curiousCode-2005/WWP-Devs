@@ -36,6 +36,7 @@ html, body {
   margin-right: 50px; 
   white-space:nowrap;
     font-family: "Times New Roman", Times, serif;
+  
 }
 
 #spaceDIV {
@@ -68,15 +69,17 @@ html, body {
   text-align: center;
   font-family: "Times New Roman", Times, serif;
   font-size: 100px;
+  margin-top: 200px;
 }
 
 #slogansmall{
-
   color: white;
   text-align: center;
   font-family: "Times New Roman", Times, serif;
   font-size: 35;
+  padding-block-end: 500px;
 }
+
 p {
   font-family: verdana;
   font-size: 20px
